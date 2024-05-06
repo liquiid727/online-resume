@@ -6,7 +6,7 @@ const character = {
   email:'liquiid727@outlook.com',
   city:"Hangzhou,China",
   github:"https://github.com/Liquiid727",
-  yuque:"https://liquiid727.github.io/",
+  yuque:"https://www.yuque.com/smalljing",
 }
 
 
@@ -20,5 +20,5 @@ export default {
   email:character.email,
   city:"Hangzhou,China",
   github:"https://github.com/Liquiid727",
-  yuque:"https://liquiid727.github.io/",
+  yuque:"https://www.yuque.com/smalljing",
 };
